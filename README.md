@@ -1,8 +1,6 @@
 .home
 =====
 
-This is my home. There are many like it, but this one is mine.
-
 This repository contains dotfiles, scripts, and plugins that personalize my
 Linux environment.
 
@@ -10,7 +8,7 @@ Linux environment.
 Install
 -------
 
-    git clone git://github.com/peterlundgren/.home.git ~/.home
+    git clone git://github.com/trinitylundgren/.home.git ~/.home
     cd ~/.home
     ./install
 
@@ -60,4 +58,4 @@ personal configuration. This should make it easy to merge upstream changes to
 
 Feel free to log issues or pull requests on [GitHub][].
 
-  [GitHub]: https://github.com/peterlundgren/.home
+  [GitHub]: https://github.com/trinitylundgren/.home
